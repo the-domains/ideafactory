@@ -1,0 +1,28 @@
+name: ideafactory
+favicon: null
+layout_spectrum: 0.4445078866556287
+typography_spectrum: 0.5278771866578609
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.48404985293745995
+  lightness: 0.37391835264861584
+  saturation: 0.8499415833503008
+  rhythmicContrast: 0.337334938114509
+purpose: []
